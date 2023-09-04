@@ -2,7 +2,7 @@
 @Sujata Goswami
 
 
-Chevron Image Analytics
+ML based document processing and analysis
 
 -- add more description -- 
 
